@@ -1,1 +1,2 @@
-# Background_Generator
+# codealpha_background-generator
+A random background generator Website
